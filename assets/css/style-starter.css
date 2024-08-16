@@ -14595,7 +14595,7 @@ fieldset:disabled .btn {
     content: "\f7aa";
 }
 
-.fa-home:before {
+.fa-Accueil:before {
     content: "\f015";
 }
 
@@ -19770,19 +19770,19 @@ display: grid;
     }
 }
 
-/*--/about--*/
+/*--/A propos--*/
 .w3l-features-6hny {
     background: var(--bg-grey);
 }
 
 
-.w3l-index-about ul.w3l-right-book-grid {
+.w3l-index-A propos ul.w3l-right-book-grid {
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: 0 20px;
 }
 
-.w3l-index-about ul.w3l-right-book li {
+.w3l-index-A propos ul.w3l-right-book li {
     margin-bottom: 10px;
     color: var(--heading-color);
     font-size: 18px;
@@ -19791,7 +19791,7 @@ display: grid;
     list-style-type: none;
 }
 
-.w3l-index-about ul.w3l-right-book li span {
+.w3l-index-A propos ul.w3l-right-book li span {
     font-size: 12px;
     margin-right: 16px;
     opacity: 0.8;
@@ -19999,7 +19999,7 @@ p.para-counter {
 }
 
 @media only screen and (max-width:991px) {
-    .w3l-index-about ul.w3l-right-book-grid {
+    .w3l-index-A propos ul.w3l-right-book-grid {
         display: grid;
         grid-template-columns: 1fr;
         grid-gap: 0 20px;
@@ -20258,10 +20258,10 @@ p.para-counter {
 }
 
 /*--//team--*/
-/*--//about--*/
+/*--//A propos--*/
 /*--/services--*/
 .grids-3-w3l,
-.home-phny {
+.Accueil-phny {
     background-color: var(--bg-grey);
 }
 /*--//services--*/
